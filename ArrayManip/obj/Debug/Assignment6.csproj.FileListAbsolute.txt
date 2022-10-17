@@ -1,0 +1,10 @@
+C:\Users\reice\source\repos\C#\Assignment6\Assignment6\bin\Debug\Assignment6.exe.config
+C:\Users\reice\source\repos\C#\Assignment6\Assignment6\bin\Debug\Assignment6.exe
+C:\Users\reice\source\repos\C#\Assignment6\Assignment6\bin\Debug\Assignment6.pdb
+C:\Users\reice\source\repos\C#\Assignment6\Assignment6\obj\Debug\Assignment6.csprojAssemblyReference.cache
+C:\Users\reice\source\repos\C#\Assignment6\Assignment6\obj\Debug\Assignment6.frmSport.resources
+C:\Users\reice\source\repos\C#\Assignment6\Assignment6\obj\Debug\Assignment6.Properties.Resources.resources
+C:\Users\reice\source\repos\C#\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.GenerateResource.cache
+C:\Users\reice\source\repos\C#\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.CoreCompileInputs.cache
+C:\Users\reice\source\repos\C#\Assignment6\Assignment6\obj\Debug\Assignment6.exe
+C:\Users\reice\source\repos\C#\Assignment6\Assignment6\obj\Debug\Assignment6.pdb
